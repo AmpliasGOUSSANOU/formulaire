@@ -1,1 +1,1 @@
-# master génération de conflict
+# A génération de conflict
