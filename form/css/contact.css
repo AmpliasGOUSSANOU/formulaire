@@ -8,11 +8,11 @@
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     border-color:  #fff;
+    padding-right: 10px;
     
   }
   .contact td{
     width: 480px;
-    padding-left: 10px;
     border: solid 1px #000000;
   }
 .contact .G{
